@@ -20,8 +20,6 @@ namespace richardorchardredirect.Controllers
 
         public IActionResult Index()
         {
-
-
             return Redirect("http://www.richardorchard.com/");
         }
 
